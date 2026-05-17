@@ -1,0 +1,10 @@
+*.class
+*.log
+temp/
+work/
+logs/
+out/
+build/
+target/
+.idea/
+.vscode/
